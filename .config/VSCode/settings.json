@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "August - Nord",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontSize": 15,
+    "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "editor.minimap.enabled": false,
+    "vetur.completion.autoImport": false,
+    "terminal.integrated.fontSize": 14
+}
